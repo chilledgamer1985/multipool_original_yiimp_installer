@@ -56,7 +56,7 @@ bash block.sh
 
 To download and run 
 
-curl -Lo install.sh https://raw.githubusercontent.com/cryptopool-builders/multipool_original_yiimp_installer/master/install.sh
+curl -Lo install.sh https://raw.githubusercontent.com/chilledgamer1985/multipool_original_yiimp_installer/master/install.sh
 
 bash install.sh
 
